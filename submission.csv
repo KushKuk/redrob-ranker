@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,0.9792,"7.2yr Senior Machine Learning Engineer at Zomato — Senior Machine Learning Engineer role directly matches JD requirements; advanced/expert skills in Weaviate, Recommendation Systems, scikit-learn; strong core retrieval/ranking skill coverage."
+CAND_0002025,2,0.9704,"5.9yr Senior AI Engineer at Apple — Senior AI Engineer role directly matches JD requirements; advanced/expert skills in FAISS, TensorFlow, scikit-learn; strong core retrieval/ranking skill coverage."
+CAND_0011687,3,0.967,"7.8yr Senior NLP Engineer at Niramai — Senior NLP Engineer role directly matches JD requirements; advanced/expert skills in TensorFlow, OpenSearch, FAISS; strong core retrieval/ranking skill coverage."
+CAND_0081852,4,0.9649,"5.9yr Senior Data Scientist at Mad Street Den — Senior Data Scientist role directly matches JD requirements; advanced/expert skills in Semantic Search, Milvus, Weaviate; strong core retrieval/ranking skill coverage."
+CAND_0043637,5,0.9637,"5.5yr Junior ML Engineer at Rephrase.ai — Junior ML Engineer role directly matches JD requirements; advanced/expert skills in PyTorch, Milvus, Weights & Biases; strong core retrieval/ranking skill coverage."
+CAND_0076163,6,0.9589,"6.9yr NLP Engineer at Ola — NLP Engineer role directly matches JD requirements; advanced/expert skills in Weaviate, BM25, Semantic Search; strong core retrieval/ranking skill coverage."
+CAND_0052682,7,0.9586,"6.6yr NLP Engineer at Aganitha — NLP Engineer role directly matches JD requirements; advanced/expert skills in QLoRA, Semantic Search, FAISS; strong core retrieval/ranking skill coverage."
+CAND_0090155,8,0.9576,5.8yr ML Engineer at Swiggy — ML Engineer role directly matches JD requirements; advanced/expert skills in Pinecone; strong core retrieval/ranking skill coverage Minor concerns: long notice period (90d).
+CAND_0079064,9,0.9571,"5.2yr Senior Data Scientist at Niramai — Senior Data Scientist role directly matches JD requirements; advanced/expert skills in LlamaIndex, OpenSearch, NLP; strong core retrieval/ranking skill coverage Minor concerns: long notice period (120d)."
+CAND_0098846,10,0.9551,"7.6yr AI Engineer at upGrad — AI Engineer role directly matches JD requirements; advanced/expert skills in Hugging Face Transformers, PEFT, QLoRA; strong core retrieval/ranking skill coverage."
+CAND_0093912,11,0.9546,"5.3yr Senior Data Scientist: Senior Data Scientist role directly matches JD requirements; advanced/expert skills in Milvus, Embeddings, Recommendation Systems.."
+CAND_0098217,12,0.9543,"6.4yr ML Engineer: ML Engineer role directly matches JD requirements; advanced/expert skills in Weights & Biases, PEFT, MLflow.."
+CAND_0024990,13,0.954,"5.2yr Junior ML Engineer: Junior ML Engineer role directly matches JD requirements; advanced/expert skills in MLflow, Elasticsearch, MLOps.."
+CAND_0027691,14,0.9534,"6.5yr NLP Engineer: NLP Engineer role directly matches JD requirements; advanced/expert skills in LoRA, PEFT, Recommendation Systems.."
+CAND_0062247,15,0.9524,"7.3yr AI Engineer: AI Engineer role directly matches JD requirements; advanced/expert skills in Pinecone, Vector Search, Qdrant.."
+CAND_0026942,16,0.9517,"6.0yr Junior ML Engineer: Junior ML Engineer role directly matches JD requirements; advanced/expert skills in TensorFlow, MLflow, Recommendation Systems.."
+CAND_0071974,17,0.9515,"7.8yr Senior AI Engineer: Senior AI Engineer role directly matches JD requirements; advanced/expert skills in LoRA, Learning to Rank, Weaviate.."
+CAND_0079387,18,0.9515,"6.9yr AI Engineer: AI Engineer role directly matches JD requirements; advanced/expert skills in scikit-learn, Recommendation Systems, Sentence Transformers.."
+CAND_0050454,19,0.9514,"6.8yr AI Engineer: AI Engineer role directly matches JD requirements; advanced/expert skills in PyTorch, QLoRA, Fine-tuning LLMs.."
+CAND_0037566,20,0.9506,"6.9yr Machine Learning Engineer: Machine Learning Engineer role directly matches JD requirements; advanced/expert skills in Pinecone, LlamaIndex, NLP.."
+CAND_0053527,21,0.9504,"7.0yr Junior ML Engineer: Junior ML Engineer role directly matches JD requirements; advanced/expert skills in Qdrant, QLoRA. Concerns: long notice period (90d)."
+CAND_0068811,22,0.95,"8.0yr Applied ML Engineer: Applied ML Engineer role directly matches JD requirements; advanced/expert skills in Vector Search, Qdrant, scikit-learn.."
+CAND_0074735,23,0.95,"5.5yr Applied ML Engineer: Applied ML Engineer role directly matches JD requirements; advanced/expert skills in RAG, LlamaIndex, Weaviate. Concerns: long notice period (90d)."
+CAND_0029367,24,0.9498,"5.7yr Senior Data Scientist: Senior Data Scientist role directly matches JD requirements; advanced/expert skills in MLflow, TensorFlow, QLoRA. Concerns: long notice period (90d)."
+CAND_0073504,25,0.9489,"6.6yr Junior ML Engineer: Junior ML Engineer role directly matches JD requirements; advanced/expert skills in Elasticsearch, RAG, MLflow.."
+CAND_0092706,26,0.9487,"5.8yr AI Research Engineer: AI Research Engineer role directly matches JD requirements; advanced/expert skills in Weights & Biases, Sentence Transformers, MLOps. Concerns: long notice period (120d)."
+CAND_0068932,27,0.948,"5.2yr ML Engineer: ML Engineer role directly matches JD requirements; advanced/expert skills in MLOps, RAG, OpenSearch.."
+CAND_0010257,28,0.9478,"6.5yr Senior Data Scientist: Senior Data Scientist role directly matches JD requirements; advanced/expert skills in Milvus, TensorFlow, MLflow. Concerns: long notice period (120d)."
+CAND_0018293,29,0.9477,"5.6yr Data Scientist: Data Scientist role directly matches JD requirements; advanced/expert skills in Recommendation Systems, scikit-learn.."
+CAND_0016163,30,0.9472,"6.7yr Applied ML Engineer: Applied ML Engineer role directly matches JD requirements; advanced/expert skills in Hugging Face Transformers, Weaviate, TensorFlow. Concerns: long notice period (120d)."
+CAND_0046064,31,0.9465,"8.9yr Senior NLP Engineer: Senior NLP Engineer role directly matches JD requirements; advanced/expert skills in Pinecone, BM25, OpenSearch.."
+CAND_0069248,32,0.9451,"5.4yr AI Research Engineer: AI Research Engineer role directly matches JD requirements; advanced/expert skills in QLoRA, FAISS. Concerns: long notice period (120d)."
+CAND_0009691,33,0.9448,"6.2yr Applied ML Engineer: Applied ML Engineer role directly matches JD requirements; advanced/expert skills in Recommendation Systems, Fine-tuning LLMs, LoRA. Concerns: long notice period (120d)."
+CAND_0081053,34,0.9444,"5.4yr NLP Engineer: NLP Engineer role directly matches JD requirements; advanced/expert skills in LoRA, QLoRA, Qdrant. Concerns: long notice period (90d)."
+CAND_0002706,35,0.9443,"6.9yr Junior ML Engineer: Junior ML Engineer role directly matches JD requirements; advanced/expert skills in TensorFlow, Fine-tuning LLMs. Concerns: long notice period (90d)."
+CAND_0088025,36,0.9436,"8.6yr Staff Machine Learning Engineer: Staff Machine Learning Engineer role directly matches JD requirements; advanced/expert skills in Pinecone, QLoRA, LLMs. Concerns: long notice period (90d)."
+CAND_0015578,37,0.9434,"5.4yr AI Engineer: AI Engineer role directly matches JD requirements; advanced/expert skills in Embeddings, NLP, BM25. Concerns: long notice period (90d)."
+CAND_0050876,38,0.9431,"6.0yr Applied ML Engineer: Applied ML Engineer role directly matches JD requirements; advanced/expert skills in Qdrant, MLOps, FAISS. Concerns: long notice period (90d)."
+CAND_0075249,39,0.9431,"6.2yr Applied ML Engineer: Applied ML Engineer role directly matches JD requirements; advanced/expert skills in Sentence Transformers, Milvus, Fine-tuning LLMs.."
+CAND_0040178,40,0.9427,"5.0yr ML Engineer: ML Engineer role directly matches JD requirements; advanced/expert skills in Weaviate, Vector Search, MLflow.."
+CAND_0019288,41,0.9425,"5.7yr AI Research Engineer: AI Research Engineer role directly matches JD requirements; advanced/expert skills in TensorFlow, OpenSearch, NLP.."
+CAND_0028287,42,0.9414,"5.7yr Data Scientist: Data Scientist role directly matches JD requirements; advanced/expert skills in OpenSearch, Pinecone, NLP. Concerns: long notice period (90d)."
+CAND_0020991,43,0.9412,"4.9yr Junior ML Engineer: Junior ML Engineer role directly matches JD requirements; advanced/expert skills in QLoRA, LoRA, Weaviate. Concerns: only 4.9 years total experience — below JD minimum; long notice period (120d)."
+CAND_0062413,44,0.9412,"6.6yr AI Research Engineer: AI Research Engineer role directly matches JD requirements; advanced/expert skills in Learning to Rank, OpenSearch, BM25.."
+CAND_0033987,45,0.9407,"6.8yr ML Engineer: ML Engineer role directly matches JD requirements; advanced/expert skills in Recommendation Systems, PEFT, Fine-tuning LLMs. Concerns: long notice period (90d)."
+CAND_0066690,46,0.9396,"4.8yr ML Engineer: ML Engineer role directly matches JD requirements; advanced/expert skills in Hugging Face Transformers, TensorFlow. Concerns: only 4.8 years total experience — below JD minimum."
+CAND_0091745,47,0.9394,"5.9yr Junior ML Engineer: Junior ML Engineer role directly matches JD requirements; advanced/expert skills in Fine-tuning LLMs, Hugging Face Transformers, MLflow. Concerns: not marked open to work."
+CAND_0016659,48,0.9391,"4.4yr ML Engineer: ML Engineer role directly matches JD requirements; advanced/expert skills in Pinecone, Weaviate, scikit-learn. Concerns: only 4.4 years total experience — below JD minimum."
+CAND_0020350,49,0.9391,"5.8yr AI Engineer: AI Engineer role directly matches JD requirements; advanced/expert skills in NLP, LoRA, LLMs.."
+CAND_0051292,50,0.9391,"5.2yr Applied ML Engineer: Applied ML Engineer role directly matches JD requirements; advanced/expert skills in FAISS, LLMs, Vector Search.."
+CAND_0058575,51,0.939,5.8yr AI Engineer — below cutoff due to: long notice period (90d). Some strengths: AI Engineer role directly matches JD requirements.
+CAND_0008295,52,0.9374,6.5yr AI Research Engineer — below cutoff due to: marginal fit. Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0098952,53,0.9371,5.5yr AI Research Engineer — below cutoff due to: marginal fit. Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0030784,54,0.9368,4.4yr Data Scientist — below cutoff due to: only 4.4 years total experience — below JD minimum; long notice period (90d). Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0097176,55,0.936,5.9yr ML Engineer — below cutoff due to: marginal fit. Some strengths: ML Engineer role directly matches JD requirements.
+CAND_0046132,56,0.9351,4.3yr AI Research Engineer — below cutoff due to: only 4.3 years total experience — below JD minimum. Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0007460,57,0.935,4.7yr AI Engineer — below cutoff due to: only 4.7 years total experience — below JD minimum; long notice period (120d). Some strengths: AI Engineer role directly matches JD requirements.
+CAND_0021410,58,0.9346,4.0yr Junior ML Engineer — below cutoff due to: only 4.0 years total experience — below JD minimum. Some strengths: Junior ML Engineer role directly matches JD requirements.
+CAND_0023458,59,0.9346,5.0yr AI Research Engineer — below cutoff due to: marginal fit. Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0026362,60,0.9342,5.0yr Data Scientist — below cutoff due to: marginal fit. Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0062561,61,0.9337,5.9yr ML Engineer — below cutoff due to: marginal fit. Some strengths: ML Engineer role directly matches JD requirements.
+CAND_0065514,62,0.9336,6.6yr ML Engineer — below cutoff due to: long notice period (90d). Some strengths: ML Engineer role directly matches JD requirements.
+CAND_0086154,63,0.9334,6.8yr Data Scientist — below cutoff due to: long notice period (90d). Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0010541,64,0.9333,6.2yr AI Research Engineer — below cutoff due to: marginal fit. Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0052335,65,0.933,6.4yr Applied ML Engineer — below cutoff due to: marginal fit. Some strengths: Applied ML Engineer role directly matches JD requirements.
+CAND_0020877,66,0.9327,5.1yr Applied ML Engineer — below cutoff due to: not marked open to work. Some strengths: Applied ML Engineer role directly matches JD requirements.
+CAND_0066376,67,0.932,5.7yr Applied ML Engineer — below cutoff due to: long notice period (90d). Some strengths: Applied ML Engineer role directly matches JD requirements.
+CAND_0095528,68,0.9311,5.3yr Senior Data Scientist — below cutoff due to: marginal fit. Some strengths: Senior Data Scientist role directly matches JD requirements.
+CAND_0054546,69,0.9295,4.9yr AI Research Engineer — below cutoff due to: only 4.9 years total experience — below JD minimum; long notice period (90d). Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0005260,70,0.9289,5.2yr Senior NLP Engineer — below cutoff due to: not marked open to work. Some strengths: Senior NLP Engineer role directly matches JD requirements.
+CAND_0073982,71,0.9285,7.0yr Data Scientist — below cutoff due to: marginal fit. Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0065430,72,0.9284,4.4yr ML Engineer — below cutoff due to: only 4.4 years total experience — below JD minimum. Some strengths: ML Engineer role directly matches JD requirements.
+CAND_0044487,73,0.9277,6.1yr Data Scientist — below cutoff due to: long notice period (120d). Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0095213,74,0.9272,5.1yr ML Engineer — below cutoff due to: not marked open to work. Some strengths: ML Engineer role directly matches JD requirements.
+CAND_0072660,75,0.9267,7.1yr Machine Learning Engineer — below cutoff due to: marginal fit. Some strengths: Machine Learning Engineer role directly matches JD requirements.
+CAND_0036184,76,0.9266,6.0yr Recommendation Systems Engineer — below cutoff due to: marginal fit. Some strengths: Recommendation Systems Engineer role directly matches JD requirements.
+CAND_0052328,77,0.9265,6.5yr Recommendation Systems Engineer — below cutoff due to: marginal fit. Some strengths: Recommendation Systems Engineer role directly matches JD requirements.
+CAND_0061175,78,0.9264,6.7yr AI Research Engineer — below cutoff due to: long notice period (120d). Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0027801,79,0.9262,7.4yr NLP Engineer — below cutoff due to: long notice period (120d). Some strengths: NLP Engineer role directly matches JD requirements.
+CAND_0030348,80,0.926,4.5yr Machine Learning Engineer — below cutoff due to: only 4.5 years total experience — below JD minimum. Some strengths: Machine Learning Engineer role directly matches JD requirements.
+CAND_0087630,81,0.926,7.2yr AI Engineer — below cutoff due to: not marked open to work. Some strengths: AI Engineer role directly matches JD requirements.
+CAND_0078579,82,0.9255,4.7yr Data Scientist — below cutoff due to: only 4.7 years total experience — below JD minimum; long notice period (120d). Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0082489,83,0.9255,5.3yr ML Engineer — below cutoff due to: not marked open to work; long notice period (90d). Some strengths: ML Engineer role directly matches JD requirements.
+CAND_0094025,84,0.9254,6.4yr Data Scientist — below cutoff due to: long notice period (90d). Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0040887,85,0.9251,4.7yr Machine Learning Engineer — below cutoff due to: only 4.7 years total experience — below JD minimum. Some strengths: Machine Learning Engineer role directly matches JD requirements.
+CAND_0007052,86,0.9247,6.5yr ML Engineer — below cutoff due to: marginal fit. Some strengths: ML Engineer role directly matches JD requirements.
+CAND_0033649,87,0.9245,5.3yr Data Scientist — below cutoff due to: marginal fit. Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0051004,88,0.9243,4.7yr Senior Data Scientist — below cutoff due to: only 4.7 years total experience — below JD minimum. Some strengths: Senior Data Scientist role directly matches JD requirements.
+CAND_0058426,89,0.9241,6.5yr Data Scientist — below cutoff due to: marginal fit. Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0065991,90,0.9241,5.4yr Data Scientist — below cutoff due to: marginal fit. Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0021491,91,0.924,6.1yr AI Research Engineer — below cutoff due to: long notice period (90d). Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0062658,92,0.9219,4.2yr Junior ML Engineer — below cutoff due to: only 4.2 years total experience — below JD minimum; long notice period (90d). Some strengths: Junior ML Engineer role directly matches JD requirements.
+CAND_0005509,93,0.9217,6.0yr Data Scientist — below cutoff due to: marginal fit. Some strengths: Data Scientist role directly matches JD requirements.
+CAND_0040200,94,0.9213,5.5yr AI Research Engineer — below cutoff due to: long notice period (90d). Some strengths: AI Research Engineer role directly matches JD requirements.
+CAND_0052169,95,0.9213,4.1yr ML Engineer — below cutoff due to: only 4.1 years total experience — below JD minimum; long notice period (120d). Some strengths: ML Engineer role directly matches JD requirements.
+CAND_0041669,96,0.9211,8.0yr Recommendation Systems Engineer — below cutoff due to: marginal fit. Some strengths: Recommendation Systems Engineer role directly matches JD requirements.
+CAND_0061655,97,0.9211,4.6yr Machine Learning Engineer — below cutoff due to: only 4.6 years total experience — below JD minimum; not marked open to work. Some strengths: Machine Learning Engineer role directly matches JD requirements.
+CAND_0030827,98,0.9206,5.4yr Senior Data Scientist — below cutoff due to: long notice period (120d). Some strengths: Senior Data Scientist role directly matches JD requirements.
+CAND_0069905,99,0.9206,6.6yr Applied ML Engineer — below cutoff due to: long notice period (90d). Some strengths: Applied ML Engineer role directly matches JD requirements.
+CAND_0043228,100,0.9205,6.8yr Applied ML Engineer — below cutoff due to: not marked open to work. Some strengths: Applied ML Engineer role directly matches JD requirements.

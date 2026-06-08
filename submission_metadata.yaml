@@ -1,0 +1,63 @@
+team_name: "FreakyRoti"
+
+primary_contact:
+  name: "Kush Kukreja"
+  email: "kukrejakush@gmail.com"
+  phone: "+91-9910135955"
+
+team_members:
+  - name: "Kush Kukreja"
+    email: "kukrejakush@gmail.com"
+    role: "ML Engineer"
+
+  - name: "Abhisth Khantwal"
+    email: "abhisthkhantwal@gmail.com"
+    role: "Data Engineer"
+
+github_repo: "https://github.com/KushKuk/redrob-ranker"
+
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+compute:
+  platform: "HP Victus"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.10+"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+ai_tools_used:
+  - "Claude"
+  - "Antigravity"
+
+ai_usage_summary: |
+  Used Claude for architecture discussion.
+  Used Antigravity for autocomplete.
+  No candidate data was fed to any external LLM during ranking.
+  All scoring logic is deterministic rule-based Python with no API calls.
+
+methodology_summary: |
+  Multi-signal rule-based scoring pipeline with explicit JD knowledge encoding.
+  Six components (title fit, skills match, career quality, experience years,
+  behavioral availability, location/logistics) combined via weighted sum, then
+  modulated by a soft-disqualifier penalty multiplier. Title is the primary
+  disqualifier to catch keyword stuffers (Marketing Manager with AI skills).
+  Skills scoring uses proficiency x duration x endorsement trust to penalize
+  zero-duration expert claims. Career quality heavily penalizes pure consulting
+  backgrounds and CV/speech-domain candidates. Behavioral signals (recency,
+  response rate, open-to-work) act as an availability filter, down-weighting
+  inactive or unresponsive candidates regardless of profile quality. Honeypot
+  detection runs before scoring to flag impossible profiles. Runtime ~3 minutes
+  on CPU with no external dependencies.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
