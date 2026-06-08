@@ -6,7 +6,7 @@
 python rank.py --candidates ./candidates.jsonl --out ./submission.csv
 ```
 
-Runtime: ~3 minutes on CPU (tested on 8-core machine, 16 GB RAM). No GPU, no network calls, no external dependencies beyond Python 3.10+ stdlib.
+Runtime: ~3 minutes on CPU (tested on 8-core machine, 16 GB RAM). No GPU, no network calls, no external dependencies beyond Python 3.8+ stdlib.
 
 ---
 
