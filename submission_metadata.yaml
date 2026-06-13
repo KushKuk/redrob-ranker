@@ -13,6 +13,10 @@ team_members:
   - name: "Abhisth Khantwal"
     email: "abhisthkhantwal@gmail.com"
     role: "Data Engineer"
+    
+  - name: "Tanmay Jain"
+    email: "tanmayjain2006@gmail.com"
+    role: "Data Engineer"
 
 github_repo: "https://github.com/KushKuk/redrob-ranker"
 
